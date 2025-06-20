@@ -1,4 +1,4 @@
-<img width="1318" alt="Screenshot 2025-06-20 at 12 10 04 PM" src="https://github.com/user-attachments/assets/ed4db49d-48ab-442f-8814-5d128837ba26" /># Workspace PortalCompany Workspace Portal
+# Workspace PortalCompany Workspace Portal
 This repository contains the initial version of the Company Workspace Portal, designed exclusively for internal use by authorized company officials. The portal provides authenticated access to core operational sections — Dashboard, Projects, and Tenders — with a secure login interface.
 
 
@@ -52,5 +52,5 @@ Features: <br />
 •	Ensures the platform is not left open to unauthorized access from idle devices.<br />
 •	Maintains security best practices by reinforcing session control and accountability.<br />
 
-![Uploading Screenshot 2025-06-20 at 12.10.04 PM.png…]()
-
+<h3>SCREENSHOTS</h3>
+<img width="1318" alt="Screenshot 2025-06-20 at 12 10 04 PM" src="https://github.com/user-attachments/assets/ed4db49d-48ab-442f-8814-5d128837ba26" />
