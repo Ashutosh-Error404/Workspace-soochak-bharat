@@ -7,8 +7,7 @@ Features:
 1.🔐 Secure Login System 
 •	Only authorized company officials can access the portal using secure credentials.
 
-•	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.
-
+•	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.<br />
 •	Protection against unauthorized access, session hijacking, and brute force login attempts.
 
 ✅ Advantages:
