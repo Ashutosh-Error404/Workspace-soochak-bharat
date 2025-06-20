@@ -3,7 +3,7 @@ This repository contains the initial version of the Company Workspace Portal, de
 
 
 Features: <br />
-1.🔐 Secure Login System 
+1.🔐 Secure Login System <br />
 •	Only authorized company officials can access the portal using secure credentials.<br />
 •	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.<br />
 •	Protection against unauthorized access, session hijacking, and brute force login attempts.<br />
