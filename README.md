@@ -1,4 +1,4 @@
-<h2>#Company Workspace Portal</h2><br />
+<h1>#Company Workspace Portal</h1><br />
 This repository contains the initial version of the Company Workspace Portal, designed exclusively for internal use by authorized company officials. The portal provides authenticated access to core operational sections — Dashboard, Projects, and Tenders — with a secure login interface.
 
 
