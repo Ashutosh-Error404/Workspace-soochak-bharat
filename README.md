@@ -1,9 +1,9 @@
 <h1>#Company Workspace Portal</h1><br />
 This repository contains the initial version of the Company Workspace Portal, designed exclusively for internal use by authorized company officials. The portal provides authenticated access to core operational sections — Dashboard, Projects, and Tenders — with a secure login interface.
-
+<br />
 
 Features: <br />
-1.🔐 Secure Login System <br />
+1.Secure Login System <br />
 •	Only authorized company officials can access the portal using secure credentials.<br />
 •	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.<br />
 •	Protection against unauthorized access, session hijacking, and brute force login attempts.<br />
