@@ -53,7 +53,8 @@ Features: <br />
 •	Maintains security best practices by reinforcing session control and accountability.<br />
 
 
-                                                                   <h3>SCREENSHOTS</h3>
+
+<h3>SCREENSHOTS</h3>                                                               
 
 <img width="1318" alt="Screenshot 2025-06-20 at 12 10 04 PM" src="https://github.com/user-attachments/assets/ed4db49d-48ab-442f-8814-5d128837ba26" />
 <img width="1306" alt="Screenshot 2025-06-20 at 12 12 48 PM" src="https://github.com/user-attachments/assets/f1371816-6fc7-4b26-a8fa-73d2ab76ff3d" />
