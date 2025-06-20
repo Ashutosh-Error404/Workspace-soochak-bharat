@@ -7,6 +7,7 @@ Features:
 •	Only authorized company officials can access the portal using secure credentials.
 •	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.
 •	Protection against unauthorized access, session hijacking, and brute force login attempts.
+
 ✅ Advantages:
 •	Prevents external or unauthorized users from accessing sensitive company data.
 •	Ensures that only verified personnel interact with internal tools, maintaining data confidentiality and operational integrity.
@@ -15,6 +16,7 @@ Features:
 •	Provides a centralized overview of company activity, including live statistics, updates, or key performance indicators (KPIs).
 •	Personalized dashboard experience based on the user's role, ensuring relevance and clarity.
 •	Responsive and dynamically rendered content based on backend data.
+
 ✅ Advantages:
 •	Saves time by offering a quick summary of actionable items.
 •	Helps management make informed decisions based on real-time visual data.
@@ -24,6 +26,7 @@ Features:
 •	Allows users to view, manage, and track all current and past company projects.
 •	Includes features to create, edit, and assign tasks or responsibilities related to projects.
 •	Projects are filterable and accessible based on role permissions, ensuring sensitive data is protected.
+
 ✅ Advantages:
 •	Enhances project transparency across teams.
 •	Enables efficient delegation, progress monitoring, and status reporting.
@@ -33,6 +36,7 @@ Features:
 •	Displays active, upcoming, and historical tenders relevant to the company’s operations.
 •	Enables authorized users to submit, review, or edit tender-related documents and entries.
 •	Structured and searchable for easier navigation through bulk data.
+
 ✅ Advantages:
 •	Streamlines tender handling and reduces errors or delays in tender submissions.
 •	Offers a central archive for tender data, supporting compliance and audits.
@@ -41,6 +45,7 @@ Features:
 🚪 Logout Functionality
 •	Provides a secure method to terminate sessions, invalidating tokens or clearing local session data.
 •	Automatically logs users out after inactivity (if session expiry is configured).
+
 ✅ Advantages:
 •	Ensures the platform is not left open to unauthorized access from idle devices.
 •	Maintains security best practices by reinforcing session control and accountability.
