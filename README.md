@@ -52,11 +52,12 @@ Features: <br />
 •	Ensures the platform is not left open to unauthorized access from idle devices.<br />
 •	Maintains security best practices by reinforcing session control and accountability.<br />
 
+
                                                                    <h3>SCREENSHOTS</h3>
 
 <img width="1318" alt="Screenshot 2025-06-20 at 12 10 04 PM" src="https://github.com/user-attachments/assets/ed4db49d-48ab-442f-8814-5d128837ba26" />
 <img width="1306" alt="Screenshot 2025-06-20 at 12 12 48 PM" src="https://github.com/user-attachments/assets/f1371816-6fc7-4b26-a8fa-73d2ab76ff3d" />
-<img width="1312" alt="Screenshot 2025-06-20 at 12 13 13 PM" src="https://github.com/user-attachments/assets/1d6f1798-
-<img width="1297" alt="Screenshot 2025-06-20 at 12 13 29 PM" src="https://github.com/user-attachments/assets/0682acea-5fa4-4eb3-acd5-34a661879f48" />
-6e73-40a4-8ee5-e82eec744b74" />
+<img width="1311" alt="Screenshot 2025-06-20 at 12 15 34 PM" src="https://github.com/user-attachments/assets/4ef5b3a9-77e3-4cad-974a-f6eb62a1b202" />
+<img width="1312" alt="Screenshot 2025-06-20 at 12 16 16 PM" src="https://github.com/user-attachments/assets/44b8ff02-cc80-42ce-b309-1b96d766cbb2" />
+
 
