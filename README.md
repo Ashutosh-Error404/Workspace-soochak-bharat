@@ -1,4 +1,4 @@
-# Workspace PortalCompany Workspace Portal
+<img width="1318" alt="Screenshot 2025-06-20 at 12 10 04 PM" src="https://github.com/user-attachments/assets/ed4db49d-48ab-442f-8814-5d128837ba26" /># Workspace PortalCompany Workspace Portal
 This repository contains the initial version of the Company Workspace Portal, designed exclusively for internal use by authorized company officials. The portal provides authenticated access to core operational sections — Dashboard, Projects, and Tenders — with a secure login interface.
 
 
@@ -48,6 +48,9 @@ Features: <br />
 •	Automatically logs users out after inactivity (if session expiry is configured).<br />
 <br />
 ✅ Advantages:<br />
+
 •	Ensures the platform is not left open to unauthorized access from idle devices.<br />
 •	Maintains security best practices by reinforcing session control and accountability.<br />
-![image](https://github.com/user-attachments/assets/2beaad4f-44b7-4f58-98ed-86b350ff80ea)
+
+![Uploading Screenshot 2025-06-20 at 12.10.04 PM.png…]()
+
