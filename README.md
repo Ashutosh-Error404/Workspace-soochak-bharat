@@ -3,7 +3,7 @@ This repository contains the initial version of the Company Workspace Portal, de
 
 
 Features: 
-🔐 Secure Login System 
+1.🔐 Secure Login System 
 •	Only authorized company officials can access the portal using secure credentials.
 •	Implemented using token-based authentication (e.g., JWT), ensuring every session is verified before access.
 •	Protection against unauthorized access, session hijacking, and brute force login attempts.
@@ -11,8 +11,10 @@ Features:
 ✅ Advantages:
 •	Prevents external or unauthorized users from accessing sensitive company data.
 •	Ensures that only verified personnel interact with internal tools, maintaining data confidentiality and operational integrity.
+
+
  
-📊 Dashboard Section
+2.Dashboard Section
 •	Provides a centralized overview of company activity, including live statistics, updates, or key performance indicators (KPIs).
 •	Personalized dashboard experience based on the user's role, ensuring relevance and clarity.
 •	Responsive and dynamically rendered content based on backend data.
@@ -21,6 +23,7 @@ Features:
 •	Saves time by offering a quick summary of actionable items.
 •	Helps management make informed decisions based on real-time visual data.
 •	Improves situational awareness across departments through a unified interface.
+
  
 🗂️ Projects Section
 •	Allows users to view, manage, and track all current and past company projects.
