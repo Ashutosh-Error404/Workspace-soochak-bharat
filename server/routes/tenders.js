@@ -1,5 +1,3 @@
-// routes/tenders.js
-
 const express = require('express');
 const router = express.Router();
 const Tender = require('../models/Tender');
@@ -22,7 +20,7 @@ const verifyToken = (req, res, next) => {
 // GET all tenders
 router.get('/', async (req, res) => {
   try {
-    const tenders = await Tender.find().sort({ createdAt: -1 });
+    const tenders = await Tender.findAll({ order: [['createdAt', 'DESC']] });
     res.json(tenders);
   } catch (err) {
     res.status(500).json({ message: 'Server error' });
@@ -33,14 +31,15 @@ router.get('/', async (req, res) => {
 router.post('/', verifyToken, async (req, res) => {
   try {
     const { title, description, dueDate, status } = req.body;
-    const newTender = new Tender({
+
+    const newTender = await Tender.create({
       title,
       description,
       dueDate,
       status,
       createdBy: req.user.id
     });
-    await newTender.save();
+
     res.status(201).json(newTender);
   } catch (err) {
     res.status(500).json({ message: 'Server error' });
@@ -48,3 +47,4 @@ router.post('/', verifyToken, async (req, res) => {
 });
 
 module.exports = router;
+
