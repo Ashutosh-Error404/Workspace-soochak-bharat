@@ -1,12 +1,15 @@
-// models/User.js
 const { DataTypes } = require('sequelize');
 const sequelize = require('../db');
+const User = require('./User');
 
-const User = sequelize.define('User', {
-  name: { type: DataTypes.STRING, allowNull: false },
-  email: { type: DataTypes.STRING, unique: true, allowNull: false },
-  password: { type: DataTypes.STRING, allowNull: false },
-  role: { type: DataTypes.STRING, defaultValue: 'employee' }
+const Tender = sequelize.define('Tender', {
+  title: { type: DataTypes.STRING, allowNull: false },
+  description: { type: DataTypes.TEXT },
+  dueDate: { type: DataTypes.DATE },
+  status: { type: DataTypes.STRING },
+  createdBy: { type: DataTypes.INTEGER, allowNull: false }
 });
 
-module.exports = User;
+Tender.belongsTo(User, { foreignKey: 'createdBy' });
+
+module.exports = Tender;
